@@ -1,0 +1,15 @@
+MODEL EVALUATION:
+
+Mean Absolute Error (MAE):  3775.9657317046876
+
+Mean Absolute Percentage Error (MAPE): 24.583933577024553
+
+Interpretation:
+ MAE indicates the average prediction error in sales units.
+ MAPE shows percentage error and helps measure relative accuracy.
+ Lower MAPE (<15%) indicates good forecasting performance.
+
+FORECAST RESULTS:
+ Forecast generated for next 6 months.
+ Model predicts continued growth with seasonal variation.
+ Suitable for short-term business planning and inventory decisions.
